@@ -20,7 +20,7 @@
 <!-------Various Interests---------->
 <h3 align="center"><u>Interests & Hobbies</u></h3>
 <p align="center">
-  🎶&nbsp;&nbsp;<b>Music&nbsp;&nbsp;Production</b> &nbsp;&nbsp; 💻&nbsp;&nbsp;<b>Web&nbsp;&nbsp;Development</b> &nbsp;&nbsp; 🎲&nbsp;&nbsp;<b>Dungeons&nbsp;&nbsp;and&nbsp;&nbsp;Dragons</b>&nbsp;&nbsp; 🎮&nbsp;&nbsp;<b>Video&nbsp;&nbsp;Games</b>
+  🎶&nbsp;&nbsp;<b>Music&nbsp;&nbsp;Production</b> &nbsp;&nbsp; 💻&nbsp;&nbsp;<b>Web&nbsp;&nbsp;Development</b>  🎲&nbsp;&nbsp;<b>Dungeons&nbsp;&nbsp;and&nbsp;&nbsp;Dragons</b>&nbsp;&nbsp; 🎮&nbsp;&nbsp;<b>Video&nbsp;&nbsp;Games</b>
 </p>
 
 <!--stats--->
