@@ -13,7 +13,7 @@
 </p>
 
 <!-------Intro Photo here----------->
-<p>
+<p align="center">
 <img src="https://i.ibb.co/M60bNHM/lofi-generator.jpg">
 </p>
 
