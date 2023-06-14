@@ -8,7 +8,7 @@
 <!-------Portfolio/Deployed Projects----------->
 <h3 align="center"><u>Projects</u></h3>
 <p align="center">
-  <a href="https://github.com/ggSushi/character-creator-survey">Character Creator Survey (repo)</a>
+  <a href="https://character-creator-survey.herokuapp.com/#/home">Character Creator Survey</a>
 </p>
 
 <!-------Intro Photo here----------->
