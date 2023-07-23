@@ -65,4 +65,5 @@
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" height="22px"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54" height="22px"/>
   <img src="https://img.shields.io/badge/-Flutter-lightgreen?style=plastic&logo=flutter" height="22px">
+  <img src="https://img.shields.io/badge/Android_Studio?style=plastic&logo=android" height="22px">
 </p>
